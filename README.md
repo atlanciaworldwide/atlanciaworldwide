@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, we are team Atlancia Worldwide</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Passionate developer from India</h3>
 <img align="right" alt="Team Atlancia Worlwide" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXZ0nog4UVV-5fhZMcwk0-Qf3FeWUHXFo4HOa7tpueO7Md3dJa0k1RTj9kv-l0j6xXvM&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atlanciaworldwide&label=Profile%20views&color=0e75b6&style=flat" alt="atlanciaworldwide" /> </p>
