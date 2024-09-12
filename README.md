@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atlanciaworldwide&label=Profile%20views&color=0e75b6&style=flat" alt="atlanciaworldwide" /> </p>
 
-- 🔭 I’m currently working on **AI Porjects and Development projects**
+- 🔭 We are currently working on **AI Porjects and Development projects**
 
-- 👯 I’m looking to collaborate on **with long and sustainable business**
+- 👯 We are looking to collaborate on **with long and sustainable business**
 
-- 📝 I regularly write articles on [business growth](business growth)
+- 📝 We regularly write articles on [business growth](business growth)
 
-- 📫 How to reach me **atlancia.worldwide@gmail.com**
+- 📫 How to reach us **atlancia.worldwide@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atlancia worldwide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atlancia worldwide" height="30" width="40" /></a>
 <a href="https://instagram.com/atlancia.worldwide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atlancia.worldwide" height="30" width="40" /></a>
